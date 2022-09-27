@@ -122,3 +122,11 @@ body {
   background: #f9f7fe;
   padding-bottom: 30px;
 }
+@media (max-width: 900px) {
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+}
